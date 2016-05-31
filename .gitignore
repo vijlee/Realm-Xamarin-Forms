@@ -1,0 +1,5 @@
+
+Tools/RealmWeaver.Fody.dll
+*.dll
+Droid/bin UITests/bin iOS/bin
+*/Components
