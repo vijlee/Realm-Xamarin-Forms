@@ -3,3 +3,6 @@ Tools/RealmWeaver.Fody.dll
 *.dll
 Droid/bin UITests/bin iOS/bin
 */Components
+Components/realm-0.74.1 Components/realm-0.74.1.info Components/realm-0.74.1.png
+packages/Fody.1.29.4 packages/NUnit.2.6.3 packages/Realm.0.74.1 packages/Xamarin.Android.Support.v4.21.0.3.0 packages/Xamarin.Forms.1.3.5.6335 packages/Xamarin.TestCloud.Agent.0.16.2 packages/Xamarin.UITest.1.1.1 packages/repositories.config
+ConfigurableScreensApp/ConfigurableScreensApp.userprefs
